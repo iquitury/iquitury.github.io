@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iquitury.github.io/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/app/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/assets/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/css/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/includes/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/item/sitemap.txt.gz
+Sitemap: https://iquitury.github.io/src/sitemap.txt.gz
